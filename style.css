@@ -27,6 +27,7 @@ body {
     background-color: red;
 }
 
+/* Make sub-menu attach to menu item and only appear when mouse is over */
 #menu ul ul {
     position: absolute;
     top: 0;
